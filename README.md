@@ -26,7 +26,7 @@ Estos escenarios se definen en un archivo de características `.feature` para fa
 
 1. Clonar el repositorio:
 
-    git clone https://github.com/tu-repositorio/RetoPlaywright_SandroHuaman.git
+    git clone https://github.com/SandroING30/RetoPlaywright_SandroHuaman
 
    
 2. Instalar las dependencias necesarias utilizando **npm**:
